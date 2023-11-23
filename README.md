@@ -8,7 +8,7 @@ This is a basic project where you can have a heads start on your new upcomming d
 
 ### Installation
 
-# Follow these simple steps to get PunchScraper up and running:
+# Follow these simple steps to get the simple discord bot up and running:
 
 # Installation: 
 Clone the repository and install the necessary dependencies.
