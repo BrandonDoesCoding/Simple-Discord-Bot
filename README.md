@@ -3,11 +3,6 @@
 
 This is a basic project where you can have a heads start on your new upcomming discord bot.
 
-## Getting Started
-
-
-### Installation
-
 # Follow these simple steps to get the simple discord bot up and running:
 
 # Installation: 
