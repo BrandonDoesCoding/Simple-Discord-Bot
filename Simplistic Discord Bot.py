@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-TOKEN = 'Please enter your discor dtokenm'
+TOKEN = 'Please enter your discord token'
 bot = commands.Bot(command_prefix='Please choose your own command prefit')
 
 @bot.command(name='hello', help='Responds with a simple greeting.')
